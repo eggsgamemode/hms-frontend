@@ -117,5 +117,4 @@ const HospitalRegister = () => {
     </Container>
   );
 };
-
 export default HospitalRegister;
